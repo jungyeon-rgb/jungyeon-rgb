@@ -30,8 +30,3 @@
 	<img src="https://img.shields.io/badge/Trello-%230052CC?style=flat-square&logo=Trello&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=Notion&logoColor=white" />
 </div>
-<br>
-<div align=left>
-	<h3>✨Number of visitors today✨</h3>
-	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungyeon-rgb&count_bg=%23ED6DA3&title_bg=%2386757E&icon=&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a> 
-</div>
